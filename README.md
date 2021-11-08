@@ -162,7 +162,7 @@ Instructions: [http://www.redmine.org/guide](http://www.redmine.org/guide)
 
 Website: [https://gong.org.es/](https://gong.org.es/)
 
-### Sigmah
+### Sigmah (maintenance discontinued)
 Sigmah is open source software for the shared management of international aid projects. Its flexible and intuitive design allows organizations to structure and continually improve the methodological framework of their activities and thereby improve the Quality and Accountability of their projects. 
 Sigmah is the result of a participatory project run by a group of aid organizations.  Using Groupe URD’s expertise and that of our technical and voluntary partners, Steering Cooperative members are able to develop the Sigmah software in order to address expressed needs.
 
